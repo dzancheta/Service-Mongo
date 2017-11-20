@@ -1,0 +1,22 @@
+{
+ "client": {
+        "firstName": "Daniel",
+        "lastName": "Simonetti",
+        "cpf": "03186919061",
+        "state": "Rio Grande do sul",
+        "city": "Eldorado do Sul",
+        "date": null
+    },
+
+"itens": [
+   {
+     "codigo": "2",
+     "nome": "Paracetamol",
+     "preco": "9,99",
+     "categoria": "remedio"
+     "quantidade": "1"
+   }
+],
+
+"formaPagamento": 50.00
+}
